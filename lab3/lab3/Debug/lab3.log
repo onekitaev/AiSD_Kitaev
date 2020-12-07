@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Lenovo\Desktop\lab2\lab2\lab3\lab3\main.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tree.cpp
+  Создание кода...
+  lab3.vcxproj -> C:\Users\Lenovo\Desktop\lab2\lab2\lab3\Debug\lab3.exe
